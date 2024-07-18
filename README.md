@@ -46,6 +46,12 @@ To get started with the application, you will need to have Python 3.x installed 
 
 The main files in the project include:
 - `main.py`: This is the main script that runs the application.
--
--
+- `dane.json`: This JSON file stores all tasks and groups.
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Special Thanks
+
+Special thanks to `customtkinter` for the GUI framework.
