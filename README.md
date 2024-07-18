@@ -12,34 +12,25 @@ The application includes the following features:
 
 ## Getting Started
 
-To get started with the application, you will need to have Python 3.x installed on your machine, along with the customtkinter library.
+To get started with the application, you will need to have Python 3.x installed on your machine, along with the `customtkinter` library.
 
 ### Installing
 
-<ol>
-  <li>
-    First, clone the repository using the following command:
+1. First, clone the repository using the following command:
     ```bash
     git clone https://github.com/your-username/to-do-list.git
-    ```
     cd to-do-list
+    ```
 
-  </li>
-  
-  <li>
-    Next, install the required libraries by running:
+2. Next, install the required libraries by running:
     ```bash
     pip install customtkinter
     ```
-  </li>
-  
-  <li>
-    Finally, run the application with:
-  </li>
+
+3. Finally, run the application with:
     ```bash
     python main.py
     ```
-</ol>
 
 ### Usage
 
