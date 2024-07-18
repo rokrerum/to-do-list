@@ -42,3 +42,10 @@ To get started with the application, you will need to have Python 3.x installed 
   <li> To delete a group along with all its tasks, click the "X" button next to the group.</li>
 </ol>
 
+## File Structure
+
+The main files in the project include:
+- `main.py`: This is the main script that runs the application.
+-
+-
+
