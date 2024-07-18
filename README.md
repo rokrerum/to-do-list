@@ -21,6 +21,7 @@ To get started with the application, you will need to have Python 3.x installed 
     First, clone the repository using the following command:
     ```bash
     git clone https://github.com/your-username/to-do-list.git
+    ```
     cd to-do-list
 
   </li>
@@ -29,12 +30,14 @@ To get started with the application, you will need to have Python 3.x installed 
     Next, install the required libraries by running:
     ```bash
     pip install customtkinter
+    ```
   </li>
   
   <li>
     Finally, run the application with:
     ```bash
     python main.py
+    ```
   </li>
 </ol>
 
